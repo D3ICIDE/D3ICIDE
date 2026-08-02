@@ -16,7 +16,6 @@
 ![Snake Animation](https://github.com/D3ICIDE/D3ICIDE/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-![Developer Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
