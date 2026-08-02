@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### 📊 My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=D3ICIDE&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ICIDE&layout=compact&theme=dark)
+
 <!--
 **D3ICIDE/D3ICIDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
