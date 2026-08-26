@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=D3ICIDE)
 
 
 ### 📊 CONTRIBUTIONS
